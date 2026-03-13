@@ -16,5 +16,6 @@ int main() {
 
     printf("%s", isPrime ? "true" : "false");
 
+    
     return 0;
 }

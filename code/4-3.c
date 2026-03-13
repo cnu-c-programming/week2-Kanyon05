@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdbool.h>
 
 int main() {
     
@@ -14,8 +15,8 @@ int main() {
         }
     }
 
+
     printf("%s", isPrime ? "true" : "false");
 
-    
     return 0;
 }
